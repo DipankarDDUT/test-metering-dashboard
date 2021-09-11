@@ -1,0 +1,6 @@
+.hour-shadow{
+    box-shadow : rgb(60 64 67 / 30%) 
+    0 1px 3px 0, rgb(60 64 67 / 15%) 
+    0 1px 4px 1px;
+    border-radius: 3px;
+}
